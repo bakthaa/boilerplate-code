@@ -6,7 +6,8 @@ npm install
 
 ### local run:
  npm start
- serve at http://localhost:1234
+ 
+ > serve at http://localhost:1234
 
  ### Test
  npm test
